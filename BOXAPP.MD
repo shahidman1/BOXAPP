@@ -2,8 +2,8 @@
   {
     "متن": "باکس پنجشنبه",
     "عکس باکس": "https://www.uplooder.net/img/image/74/5e365cbac8562a1ac5257fc11c718134/Screenshot-۲۰۲۱۱۰۰۹-۱۴۰۴۴۱-Gallery.jpg",
-    "دانلود عکس": "دانلود عکس",
-    "کلیک": "https://www.uplooder.net/img/image/74/5e365cbac8562a1ac5257fc11c718134/Screenshot-۲۰۲۱۱۰۰۹-۱۴۰۴۴۱-Gallery.jpg"
+    "دانلود عکس": "",
+    "کلیک": ""
   },
   {
     "متن": "باکس امروز",
