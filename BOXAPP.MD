@@ -11,6 +11,6 @@
     "عکس باکس": "https://www.uplooder.net/img/image/29/288a927f52bd492710315b3754f5efb3/Screenshot-۲۰۲۱۱۰۱۰-۱۵۰۳۱۷-PES-2021.jpg",
     "دانلود عکس": "",
     "کلیک": "https://www.uplooder.net/img/image/29/288a927f52bd492710315b3754f5efb3/Screenshot-۲۰۲۱۱۰۱۰-۱۵۰۳۱۷-PES-2021.jpg",
-    "کلیک عکس": "rubika://l.rubika.ir/PES_BOX"
+    "کلیک عکس": ""
   }
 ]
