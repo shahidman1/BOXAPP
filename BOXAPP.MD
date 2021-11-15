@@ -22,9 +22,9 @@
   },
   {
     "متن": "دوشنبه 24/08/1400",
-    "عکس باکس": "https://s4.uupload.ir/files/pes_box_4_jt6m.jpg",
+    "عکس باکس": "https://s20.picofile.com/file/8443806200/pes_box_4_jt6m.jpg",
     "دانلود عکس": "دانلود",
-    "کلیک": "https://s4.uupload.ir/files/pes_box_4_jt6m.jpg",
+    "کلیک": "https://s20.picofile.com/file/8443806200/pes_box_4_jt6m.jpg",
     "کلیک عکس": ""
   }
 ]
