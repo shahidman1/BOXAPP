@@ -21,6 +21,13 @@
     "کلیک عکس": ""
   },
   {
+    "متن": "",
+    "عکس باکس": "https://s20.picofile.com/file/8447054418/%DB%B2%DB%B0%DB%B2%DB%B2%DB%B0%DB%B1%DB%B2%DB%B8_%DB%B1%DB%B1%DB%B3%DB%B1%DB%B1%DB%B9.jpg",
+    "دانلود عکس": "",
+    "کلیک": "",
+    "کلیک عکس": "rubika://l.rubika.ir/Likee_like"
+  },
+  {
     "متن": "پنجشنبه 07/11/1400",
     "عکس باکس": "https://s20.picofile.com/file/8447053718/Screenshot_%DB%B2%DB%B0%DB%B2%DB%B2%DB%B0%DB%B1%DB%B2%DB%B8_%DB%B1%DB%B0%DB%B5%DB%B7%DB%B3%DB%B0_Simple_Scanner.jpg",
     "دانلود عکس": "دانلود",
